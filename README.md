@@ -40,4 +40,4 @@ saltylex@github
 </img>
 
 
-<sup><sub>layout inspired by tryKatchup</sup></sub>
+<sup><sub>layout inspired by tryKatChup</sup></sub>
