@@ -23,9 +23,9 @@ saltylex@github:~$ ./welcome.sh
 saltylex@github
 -------------------------
 🏫 BSc Computer Science 2nd year student @ BBU Cluj-Napoca
-🎲 Main interests in GameDev & Cybersec
+🎲 Main interests in GameDev & CyberSec
 🌟 Main languages: Python, C/C++
-🚩 Interested in cryptography and blockchain technology
+🚩 Interested in Cryptography and Blockchain Technology
 💖 In a complicated relationship with WSL and Vim
 🖌️ Love drawing, singing, bullet journaling and practicing Taekwon-Do
 🎵 Love pop, indie, lo-fi and k&j-pop
