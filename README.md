@@ -27,9 +27,10 @@ saltylex@github
 🌟 Main languages: Python, C/C++
 🚩 Interested in Cryptography and Blockchain Technology
 💖 In a complicated relationship with WSL and Vim
+🧁 Searching for more pink characters to relate to
 🖌️ Love drawing, singing, bullet journaling and practicing Taekwon-Do
 🎵 Love pop, indie, lo-fi and k&j-pop
-⚡ Love salt (and being salty, moderately) 🧂
+⚡ Love snacks (and being salty, moderately) 🧂
 💻 Total commits: 80
 ⭐ Total stars gained: 6
 -------------------------
