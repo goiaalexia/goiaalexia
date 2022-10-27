@@ -30,8 +30,8 @@ saltylex@github
 🖌️ Love drawing, singing, bullet journaling and practicing Taekwon-Do
 🎵 Love pop, indie, lo-fi and k&j-pop
 ⚡ Love snacks (and being salty, moderately) 🧂
-💻 Total commits: 89
-⭐ Total stars gained: 8
+💻 Total commits: 100
+⭐ Total stars gained: 12
 -------------------------
 ```
 <br>
