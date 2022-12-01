@@ -27,8 +27,8 @@ saltylex@github:~$ ./hello.sh
 #### ♡ 📧 Reach out to me through LinkedIn!
 #### ♡ 🌈 I'm probably playing Pokémon Violet while you're reading through this ><
 
-<p align="right"> ♡ 💻 Total commits: 100 </p>
-<p align="right"> ♡ ⭐ Total stars gained: 12 </p>
+<p align="right"> ♡ 💻 Total commits: 119 </p>
+<p align="right"> ♡ ⭐ Total stars gained: 17 </p>
 
 <br>
 
