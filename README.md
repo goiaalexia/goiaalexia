@@ -13,7 +13,7 @@ saltylex@github:~$ ./hello.sh
 </a>
 </p>
 <p align="center">
-<img src="https://github.com/saltylex/saltylex/blob/working/images/placeholder_mew_gif.gif" alt="Mew Pokemon being cute" width="400" /> 
+<img src="https://github.com/saltylex/saltylex/blob/working/images/placeholder_mew_gif.gif" alt="Mew Pokemon being cute" width="380" /> 
 </p>
 
 ---  
