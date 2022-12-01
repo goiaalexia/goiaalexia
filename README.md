@@ -2,10 +2,13 @@
 saltylex@github:~$ ./hello.sh
 ```
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE5374,100:D183C9&height=200&width=640&section=header&text=%F0%9F%8E%80%20hello%20!%20%E2%9C%A7%CB%96%C2%B0&fontSize=60&animation=scaleIn&fontColor=ffe6ee" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:770058,50:bc96e6,100:048ba8&height=200&width=640&section=header&text=✨%20hello%20!%20%E2%9C%A7%CB%96%C2%B0&fontSize=60&animation=scaleIn&fontColor=ffe6ee" />
 
 <img src="https://github.com/saltylex/saltylex/blob/working/images/placeholder_mew_gif.gif" alt="Mew Pokemon being cute" width="400" /> 
 </p>
+
+---  
+
 
 🏫 BSc Computer Science 2nd year student @ BBU Cluj-Napoca
 🎲 Main interests in GameDev & CyberSec
