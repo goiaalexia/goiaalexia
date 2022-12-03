@@ -30,7 +30,7 @@ saltylex@github:~$ ./hello.sh
 <p align="right"> ♡ 💻 Total commits: 119 </p>
 <p align="right"> ♡ ⭐ Total stars gained: 17 </p>
 
-[](https://komarev.com/ghpvc/?username=saltylex&style=flat&color=770058&label=visitors)
+![](https://komarev.com/ghpvc/?username=saltylex&style=flat&color=770058&label=visitors)
 
 <br>
 
