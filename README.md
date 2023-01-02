@@ -22,12 +22,13 @@ saltylex@github:~$ ./hello.sh
 
 #### ♡ 👩‍💻 BSc Computer Science 2nd year student @ BBU Cluj-Napoca
 #### ♡ 🎲 I'm interested in learning more about Game Development, UI/UX, CyberSecurity and Web Development.
+#### ♡ 🤩 Currently working on a Java toy language interpreter & other personal projects.
 #### ♡ 🌟 Main languages: C/C++, Python, Java.
 #### ♡ 💖 Currently looking for a software development related internship!  
 #### ♡ 📧 Reach out to me through LinkedIn!
 #### ♡ 🌈 I'm probably playing Pokémon Violet while you're reading through this ><
 
-<p align="right"> ♡ 💻 Total commits: 119 </p>
+<p align="right"> ♡ 💻 Total commits: 136 </p>
 <p align="right"> ♡ ⭐ Total stars gained: 17 </p>
 
 ![](https://komarev.com/ghpvc/?username=saltylex&style=flat&color=770058&label=visitors)
