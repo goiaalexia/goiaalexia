@@ -19,7 +19,7 @@ saltylex@github:~$ ./hello.sh
 
 ---  
 -->
-<h1 align="center">✧˖° About me: ✨</h1>
+<h1 align="left">✧˖° About me: ✨</h1>
 
 #### ♡ 👩‍💻 BSc Computer Science 2nd year student @ BBU Cluj-Napoca
 #### ♡ 🌟 Main languages: C/C++, Python, Java.
