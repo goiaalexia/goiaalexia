@@ -37,6 +37,7 @@ saltylex@github
 ⭐ Total stars gained: N/A
 ```
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saltylex.visitor-badge&left_color=PaleVioletRed&right_color=purple" alt="visitor badge">
+<br>
 
 ```console
 saltylex@github:~$ ./goodbye.sh
