@@ -38,7 +38,12 @@ saltylex@github
 ```
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saltylex.visitor-badge&left_color=PaleVioletRed&right_color=purple" alt="visitor badge">
 
+```console
+saltylex@github:~$ ./goodbye.sh
 ```
+
+```
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠞⢳⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠋⠀⢰⠎⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⢆⣤⡞⠃⠀⠀⠀⠀⠀⠀  ／￣￣￣￣￣￣￣￣
