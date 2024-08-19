@@ -21,7 +21,7 @@ saltylex@github:~$ ./hello.sh
 ⠀⠀⠀⠀⠈⠒⠓⠉⠀⠀⠀⠀⠉⠉⠑⠤⣔⣳⠄⠀⠀⠀⠀⠀⠀
 ```
 
-<img align="left" src="https://github.com/user-attachments/assets/a6ceb233-86f0-45e0-9765-63a86ae445db" alt="Dori from Genshin Impact Sumeru trailer" width="320" /> 
+<img align="left" src="https://github.com/user-attachments/assets/a6ceb233-86f0-45e0-9765-63a86ae445db" alt="Dori from Genshin Impact Sumeru trailer" width="320" height="320" /> 
 
 ```
 saltylex@github
