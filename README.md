@@ -26,7 +26,7 @@ saltylex@github:~$ ./hello.sh
 ```
 saltylex@github
 -------------------------
-💻 MsC Cyber Security Student @ BBU
+💻 MEng Cyber Security Student @ BBU
 📚 Main interests: Web & Game Development
 🎨 Working on Front-Ends for FSD solutions @ METRO.digital
 🙌 Learning about: DSA, Software Engineering, Game Development 
