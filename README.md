@@ -28,13 +28,12 @@ saltylex@github
 -------------------------
 💻 MEng Cyber Security Student @ BBU
 📚 Main interests: Web & Game Development
-🎨 Working on Front-Ends for FSD solutions @ METRO.digital
+👐 Looking for new job opportunities!
+🎨 Previously worked on Front-Ends for FSD solutions @ METRO.digital
 🙌 Learning about: DSA, Software Engineering, Game Development 
 ✨ Main languages: TypeScript, Python, C++, C# 
 🔐 Interested in Web Security & programming best practices
-🖌️ Love drawing digital characters, going to concerts, gaming
-💻 Total commits: N/A
-⭐ Total stars gained: N/A
+🖌️ Love creating digital art, going to concerts, gaming
 ```
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saltylex.visitor-badge&left_color=PaleVioletRed&right_color=purple" alt="visitor badge">
 <br>
