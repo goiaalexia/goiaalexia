@@ -34,6 +34,7 @@ saltylex@github
 ✨ Main languages: TypeScript, Python, C++, C# 
 🔐 Interested in Web Security & programming best practices
 🖌️ Love creating digital art, going to concerts, gaming
+⭐ Stars gained: N/A
 ```
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saltylex.visitor-badge&left_color=PaleVioletRed&right_color=purple" alt="visitor badge">
 <br>
