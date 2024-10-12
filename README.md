@@ -1,5 +1,5 @@
 ```console
-saltylex@github:~$ ./hello.sh
+goiaalexia@github:~$ ./hello.sh
 ```
 
 
@@ -40,7 +40,7 @@ saltylex@github
 <br>
 
 ```console
-saltylex@github:~$ ./goodbye.sh
+goiaalexia@github:~$ ./goodbye.sh
 ```
 
 ```
