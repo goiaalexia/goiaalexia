@@ -38,6 +38,8 @@ goiaalexia@github
 ```
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saltylex.visitor-badge&left_color=PaleVioletRed&right_color=purple" alt="visitor badge">
 <br>
+![sad](https://github.com/user-attachments/assets/210fb913-40c6-4d91-aaf9-7eb98144aaed)
+
 
 ```console
 goiaalexia@github:~$ ./goodbye.sh
