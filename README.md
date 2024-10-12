@@ -37,9 +37,6 @@ goiaalexia@github
 ⭐ Stars gained: N/A
 ```
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saltylex.visitor-badge&left_color=PaleVioletRed&right_color=purple" alt="visitor badge">
-
-https://github.com/user-attachments/assets/1a209b9e-dc4e-48b0-9a62-633b67ae604c
-
 <br>
 
 ```console
